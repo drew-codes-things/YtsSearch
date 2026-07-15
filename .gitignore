@@ -1,4 +1,0 @@
-torrent_files/
-*.txt
-!requirements.txt
-__pycache__/
